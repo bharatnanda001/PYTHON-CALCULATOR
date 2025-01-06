@@ -1,0 +1,19 @@
+Welcome to the Python Scientific Calculator!
+Operations: +, -, *, /, sqrt, log, sin, cos, tan
+Type 'history' to view past calculations or 'exit' to quit.
+Enter operation: +
+Enter first number: 10
+Enter second number: 5
+Result: 15.0
+
+Enter operation: sqrt
+Enter number: 25
+Result: 5.0
+
+Enter operation: history
+History of calculations:
++ (10.0, 5.0) = 15.0
+sqrt(25.0) = 5.0
+
+Enter operation: exit
+Goodbye!
